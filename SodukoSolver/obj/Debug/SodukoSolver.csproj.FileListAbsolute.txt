@@ -1,0 +1,7 @@
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.csproj.AssemblyReference.cache
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.csproj.CoreCompileInputs.cache
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\SodukoSolver\bin\Debug\SodukoSolver.exe.config
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\SodukoSolver\bin\Debug\SodukoSolver.exe
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\SodukoSolver\bin\Debug\SodukoSolver.pdb
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.exe
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.pdb
