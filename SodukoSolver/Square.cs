@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SodukoSolver
 {
-    class Square: ICloneable,IComparable
+    public class Square: ICloneable,IComparable
     {
         public char Number { get; set; }
         public int Col { get; set; }

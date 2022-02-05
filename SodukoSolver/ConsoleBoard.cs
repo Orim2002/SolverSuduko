@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SodukoSolver
 {
-    class ConsoleSudukoBoard : SudukoBoard
+    public class ConsoleSudukoBoard : SudukoBoard
     {
 
         public ConsoleSudukoBoard(string puzzle)

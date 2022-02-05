@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SodukoSolver
 {
-    class Region : IEnumerable<Square>,ICloneable
+    public class Region : IEnumerable<Square>,ICloneable
     {
         private readonly Square[] _cells;
         public Square this[int index] => _cells[index];

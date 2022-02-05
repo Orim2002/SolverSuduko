@@ -1,0 +1,17 @@
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\bin\Debug\Tests.dll
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\bin\Debug\Tests.pdb
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\bin\Debug\SodukoSolver.exe
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\bin\Debug\SodukoSolver.pdb
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\bin\Debug\SodukoSolver.exe.config
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\obj\Debug\Tests.dll
+C:\Users\o2002\Desktop\HW\C#\SodukoSolver\Tests\obj\Debug\Tests.pdb

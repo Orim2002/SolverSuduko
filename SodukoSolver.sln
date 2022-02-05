@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SodukoSolver", "SodukoSolver\SodukoSolver.csproj", "{69F60BC7-2372-4D30-A5DE-56D35BBEE9F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{A6CAF2AA-90FC-4B02-AA4B-C4DACA68BA10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{69F60BC7-2372-4D30-A5DE-56D35BBEE9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69F60BC7-2372-4D30-A5DE-56D35BBEE9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69F60BC7-2372-4D30-A5DE-56D35BBEE9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6CAF2AA-90FC-4B02-AA4B-C4DACA68BA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6CAF2AA-90FC-4B02-AA4B-C4DACA68BA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6CAF2AA-90FC-4B02-AA4B-C4DACA68BA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6CAF2AA-90FC-4B02-AA4B-C4DACA68BA10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

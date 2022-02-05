@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SodukoSolver
 {
-    abstract class Utils
+    public abstract class Utils
     {
         public enum Command
         {

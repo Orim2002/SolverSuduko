@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SodukoSolver
 {
-    class Solver
+    public class Solver
     {
         private SudukoBoard Board;
         public Solver(SudukoBoard SudukoBoard)
@@ -98,6 +98,7 @@ namespace SodukoSolver
                 Square copyCell = cpy.Board[square.Row][square.Col];
                 copyCell.Number = option;
                 copyCell.Possible = new List<char>(option);
+                cpy.PuzzleString = Utils.SudukoBoardToPuzzle(cpy);
                 Check(cpy);
                 SudukoBoard result = SolveSudoku(cpy);
                 if (result != null)

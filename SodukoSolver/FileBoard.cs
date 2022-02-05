@@ -9,7 +9,7 @@ using System.Collections.ObjectModel;
 
 namespace SodukoSolver
 {
-    class FileSudukoBoard : SudukoBoard
+    public class FileSudukoBoard : SudukoBoard
     {
         private OpenFileDialog openFileDialog;
         public string _path { get; set; }

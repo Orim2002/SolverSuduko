@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SodukoSolver
 {
-    class SudukoBoard: ICloneable
+    public class SudukoBoard: ICloneable
     {
         public string PuzzleString { get; set; }
         public int Size { get; set; }
